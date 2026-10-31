@@ -35,7 +35,7 @@ function Dream() {
   const s = STEPS[step]!;
   const clip = step < 2 ? s.clip : "0 0 0 0";
   return (
-    <Chapter title="" song={SONGS.dream}>
+    <Chapter title="Our Dream ❤️" song={SONGS.dream}>
       <div className="relative overflow-hidden rounded-3xl border">
         <img src={img} alt="Our dream family home with everyone together" width={1536} height={864}
           className="w-full transition-all duration-[1800ms]"
