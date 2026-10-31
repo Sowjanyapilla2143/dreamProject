@@ -33,7 +33,7 @@ function Memories() {
         <button className="btn-ghost" onClick={() => setI((i + 1) % n)} aria-label="Next"><ChevronRight className="h-4 w-4" /></button>
         <button className="btn-ghost" onClick={() => setAuto(!auto)}>{auto ? <Pause className="h-4 w-4" /> : <Play className="h-4 w-4" />}</button>
       </div>
-      <p className="mt-5 sm:mt-6 text-center font-serif text-xl sm:text-2xl italic text-blush">Every picture holds a little piece of us❤️ And many more still waiting to be made. 💕</p>
+      <p className="mt-5 sm:mt-6 text-center font-serif text-xl sm:text-2xl italic text-blush">Every picture holds a little piece of us❤️ And many more still waiting to be made. ❤️</p>
     </Chapter>
   );
 }
