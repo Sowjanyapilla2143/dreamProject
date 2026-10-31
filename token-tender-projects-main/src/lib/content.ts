@@ -66,6 +66,7 @@ export const MEMORIES = [
   { src: "/photos/44.jpg", caption: "#Govinda 🫂🫂🫂🫂🫂💕", date: "Forever" },
  
   { src: "/photos/46.jpeg", caption: "#my bujjuluuuuu 😘", date: "2025" },
+  { src: "/photos/47.jpg", caption: "#Bday🤍💫😘", date: "2025" },
   
   { src: "/photos/48.jpg", caption: "The day everything felt a little more special 😍", date: "2026" },
   { src: "/photos/49.jpg", caption: "#Peace 💕", date: "2026" },
