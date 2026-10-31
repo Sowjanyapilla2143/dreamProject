@@ -27,7 +27,7 @@ function Proposal() {
   const done = shown > PROPOSAL.length - 1;
 
   return (
-    <Chapter title="" song={SONGS.proposal}>
+    <Chapter title="My Proposal ❤️" song={SONGS.proposal}>
       <div key={run} className="relative">
         <img
           src={img}
