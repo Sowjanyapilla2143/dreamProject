@@ -56,7 +56,7 @@ function Day() {
           className="fade-up font-serif text-lg sm:text-xl lg:text-2xl text-gold"
           style={{ animationDelay: "1s" }}
         >
-          Today is your day, my favourite person. ❤️
+          Today is your day, Jaanu. ❤️
         </p>
 
         {!wished ? (
