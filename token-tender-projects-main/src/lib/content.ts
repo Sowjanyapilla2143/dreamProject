@@ -87,12 +87,47 @@ export const MEMORIES = [
 
 ];
 
+
 export const LETTER = [
-  "Found both best friend and soulmate in one person💕 There are so many things I want to tell you, and sometimes words never feel enough. You have become such a special part of my life, and every day with you feels like a gift.",
-  "Regardless of whether I feel stressed, bored, sad, or happy, I simply look forward to the end of the day when I can see you and release all of my burdens.💫",
-  "Thank you for your patience, your laugh, your kindness, for making me feel precious, your cute anger and for the way you make ordinary days feel magical. I'm so proud of the person you are.",
-  "On your birthday, I just want you to know — you are loved, deeply and endlessly. Today and always. Love u raa...Forever thankful to our frnds🫂",
+  "Found both best friend and soulmate in one person💕 There are so many things I want to tell you, and sometimes words never feel enough. You have become such a special part of my life, and every day with you feels like a gift ra.",
+
+  "I don't know what to say. I just love you so much that sometimes I feel like dachesukovali ninnu, just keep you all to myself. ❤️",
+
+  "How do you notice every little thing about me? Not just the things people can see, but even the things going on in my mind? How do you know when I'm not happy, even when I try my best to act like I'm okay?",
+
+  "How can you give a girl so much priority that sometimes she can't even believe someone could love her this much?",
+
+  "How do you try to fulfil even my smallest wishes without getting irritated, even though I know I irritate you the most? 😁❤️",
+
+  "Maybe you're the only one who knows even my peak sadistic side and still loves me this much. How do you trust me even more than I trust myself?",
+
+  "How do you keep motivating me and making me believe I can do anything, even when I feel like I can't do anything at all?",
+
+  "How do you manage to be there for me in every little moment of my life, no matter what?",
+
+  "How do you make me feel so precious that I never have to doubt how much I mean to you?",
+
+  "And how do you remember and try to fulfil even my smallest wishes, even when we're surrounded by so many people? You still find ways to make me feel special. 🥹❤️",
+
+  "And the biggest thing is, how did you become someone so important in my life that you're almost as important to me as my mom and dad? Sometimes, I feel like I could never choose between you and them if I ever had to. 🫠❤️",
+
+  "Everything feels a little lighter when I'm with you, kukka. ❤️",
+
+  `And if one day our little girl comes to me and asks, "Amma, what kind of boy should I love?" I'd tell her, "When you find a boy like your dad, just go for him, ma. You can leave the rest of the world behind." ❤️🥹`,
+
+  "Because if there's one thing you've taught me, it's how beautiful it feels to be loved by someone who notices you, understands you, trusts you, and chooses you every single day.",
+
+  "Thank you for loving me in ways I never even knew I needed. Thank you for making me feel this loved, this safe, and this special.",
+
+  "I don't think I'll ever be able to explain how much you mean to me, kukka. But I hope you always feel it. ❤️🧿",
+
+  "Regardless of whether I feel stressed, bored, sad, or happy, I simply look forward to the end of the day when I can see you and release all of my burdens. 💫",
+
+  "Thank you for your patience, your laugh, your kindness, for making me feel precious, your cute anger, and for the way you make ordinary days feel magical. I'm so proud of the person you are.",
+
+  "On your birthday, I just want you to know — you are loved, deeply and endlessly. Today and always. Love u raa... Forever thankful to our frnds 🫂",
 ];
+
 
 export const PROPOSAL = [
   "You make my world softer, brighter, and so much more beautiful.",
