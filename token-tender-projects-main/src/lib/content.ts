@@ -113,7 +113,7 @@ export const LETTER = [
 
   "Everything feels a little lighter when I'm with you, kukka. ❤️",
 
-  `And if one day our little girl comes to me and asks, "Amma, what kind of boy should I love?" I'd tell her, "When you find a boy like your dad, just go for him, ma. You can leave the rest of the world behind." ❤️🥹`,
+  `And if one day our little girl comes to me and asks, "Amma, what kind of boy should I love?" I'd tell her, "When you find a boy like your dad, just go for him, You can leave the rest of the world behind." ❤️🥹`,
 
   "Because if there's one thing you've taught me, it's how beautiful it feels to be loved by someone who notices you, understands you, trusts you, and chooses you every single day.",
 
